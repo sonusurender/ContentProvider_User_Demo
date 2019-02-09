@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContentProviderUser Example</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="show_data">Show Data</string>
+    <string name="fetch">Fetch Data from Content Provider</string>
+    <string name="id">Enter Id</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="update_delete">Enter Id to Update/Delete Data</string>
+    <string name="insert">Insert</string>
+    <string name="insert_data">Click to Insert New Data</string>
+
+</resources>
